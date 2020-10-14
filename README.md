@@ -21,7 +21,7 @@ Once the containers are setup, you can visit <http://127.0.0.1:8014> in your bro
 
 For working on [Sass files](_sass), you may need to dynamically watch for changes to rebuild the CSS whenever something changes.
 
-To setup the watcher, open a new terminal window and run:
+To setup the watcher, open a new terminal window and run :
 
 ``` bash
 ./run watch
